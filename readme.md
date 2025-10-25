@@ -23,8 +23,11 @@ This file contains the folowing contents which are explained in their respective
         Once all letters are guessed correcly, the games ends and shows the correct word with the score. It also shows the number of games player won and lost.
 
 2. Wordlist format and categories:
+
     The wordlist are divided in to four catagories
+    
         1. Animals
         2. Science
         3. Programming
-        4. countries
+        4. Countries
+    The each catagory consists multiple words which are for guessing. The program is not case sensative therefore the word case is not important.
