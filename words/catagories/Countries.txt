@@ -22,7 +22,6 @@ Botswana
 Brazil
 Brunei
 Bulgaria
-Burkina Faso
 Burundi
 Cabo Verde
 Cambodia
@@ -34,7 +33,6 @@ China
 Colombia
 Comoros
 Congo
-Costa Rica
 Croatia
 Cuba
 Cyprus
@@ -131,7 +129,6 @@ Samoa
 Senegal
 Serbia
 Seychelles
-Sierra Leone
 Singapore
 Slovakia
 Slovenia
