@@ -18,6 +18,13 @@ This file contains the folowing contents which are explained in their respective
 
         This will stat the game in the terminal.
 
-        4. Once the game is started, it will ask the player to select any one of the catagory of the word from animal, science, programming or country. When the player will select the catagory, it will display the dashes for each letter in the word to be guessed. It will ask to guess either full word which can be enter by writting guess and giving the whole word or single letter on each try.
+        4. Once the game is started, it will ask the player to select any one of the catagory of the word from animals, science, programming or countries. When the player will select the catagory, it will display the dashes for each letter in the word to be guessed. It will ask to guess either full word which can be enter by writting guess and giving the whole word or single letter on each try.
         There are total six chances which allow you to give wrong letters which are not in the word. Each time the wrong letter is given the hangman parts start to appear and your chances start to reduce one at each time. Player can quit game anytime by writting quit.
-        Once all letters are guessed correcly, the games ends and 
+        Once all letters are guessed correcly, the games ends and shows the correct word with the score. It also shows the number of games player won and lost.
+
+2. Wordlist format and categories:
+    The wordlist are divided in to four catagories
+        1. Animals
+        2. Science
+        3. Programming
+        4. countries
