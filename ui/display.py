@@ -38,3 +38,14 @@ class Display:
 
      def say_goodbye(self):
         print('\nThanks for playing! Goodbye.\n')
+
+     def show_stats(self, stats):
+        games = stats.get('games_played', 0)
+        wins = stats.get('wins', 0)
+        losses = stats.get('losses', 0)
+        total_score = stats.get('total_score', 0)
+        win_rate = (wins / games * 100) if games else 0
+        avg = (total_score / games) if games else 0
+        print(f"\nGames played: {games}  Wins: {wins}  Losses: {losses}  Win rate: {win_rate:.2f}%")
+        print(f"Total score: {total_score}  Average score per game: {avg:.2f}\n")
+
